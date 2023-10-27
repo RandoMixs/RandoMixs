@@ -4,7 +4,7 @@ I'm Caio, a **Full Stack developer**. I'm passionate about building software, an
 
 **Technical Skills**
 
-* Programming languages: JavaScript, Node.js, PHP, HTML, CSS
+* Programming languages: JavaScript, Node.js, PHP, HTML, CSS, C/C++
 * Software development tools: Git, Visual Studio Code
 * Web development frameworks: Bootstrap, React.js
 * Databases: MySQL, Microsoft SQL Server
